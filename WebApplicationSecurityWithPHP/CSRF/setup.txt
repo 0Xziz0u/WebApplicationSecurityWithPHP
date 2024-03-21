@@ -1,0 +1,3 @@
+Create Database called CSRF;
+Create Table called users (id, name , status) # Add Dummy Values
+
